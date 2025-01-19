@@ -1,1 +1,1 @@
-Just learning states with these little fun-to-do projects
+Just learning states with these little fun-to-do projects.
